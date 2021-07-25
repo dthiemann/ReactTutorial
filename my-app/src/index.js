@@ -8,6 +8,14 @@ import App from "./App";
 ReactDOM.render(
     <App />, document.getElementById("root"));
 
+
+
+
+
+
+
+// =====================================    
+
 function playingWithArrays() {
     const companies = [
         { name: "Company One", category: "Finance", start: 1981, end: 2003 },
